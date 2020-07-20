@@ -38,12 +38,11 @@
 
 
 
-- For DETAIL INFO
-> Repository: https://github.com/IMSEONGJUN/GitHubFollowers
+- For DETAIL INFO: https://github.com/IMSEONGJUN/GitHubFollowers
 
   
 #
-### [ TinderCopy ]
+### [ TinderCopy ]<img src = "https://github.com/IMSEONGJUN/TinderCopy/blob/master/TinderCopy/Assets.xcassets/AppIcon.appiconset/Icon-120.png?raw=true" width = 50 align = right>
 ![이미지](https://github.com/IMSEONGJUN/TinderCopy/blob/master/images/New%20Project%20(3).png)
 > Tinder 앱을 카피한 연습용 프로젝트로
 
@@ -52,8 +51,7 @@
 - Google Firebase, Firestore를 활용한 사용자 정보관리
 - UIPageViewController를 활용한 이미지 슬라이딩
 
-- For DETAIL INFO
-> Repository: https://github.com/IMSEONGJUN/TinderCopy
+- For DETAIL INFO: https://github.com/IMSEONGJUN/TinderCopy
 
 #
 ### [ MemoWithPhoto ] <img src = "https://github.com/IMSEONGJUN/iOSMemoApp/blob/master/images/Icon-60.png?raw=true" width = 50 align = right>
@@ -68,12 +66,10 @@
 - 메모 추가, 수정, 삭제, 검색 기능 구현
 - 메모에 이미지를 추가로 첨부가능
 - 이미지 첨부방식은 사진촬영, 사진첩, 이미지 URL
-
-- For DETAIL INFO
-> Repository: https://github.com/IMSEONGJUN/MemoWithPhoto
+- For DETAIL INFO: https://github.com/IMSEONGJUN/MemoWithPhoto
 
 #
-### [ MyCloset ]
+### [ MyCloset ]<img src = "https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
 
 ![이미지](https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/screenshot/mycloset.png?raw=true)
 
@@ -85,5 +81,6 @@
 - 각 카테고리 아이템을 조합하여 데일리 코디 기능
 - 지난 코디 이미지 조회 기능
 
-- For DETAIL INFO
-> Repository: https://github.com/IMSEONGJUN/MyCloset
+- For DETAIL INFO: https://github.com/IMSEONGJUN/MyCloset
+
+### [ 다방 클론앱 ]
