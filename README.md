@@ -19,9 +19,6 @@
 - 사용언어: Swift, C++
 - 라이브러리: Alamofire, SnapKit, Google Firebase, SDWebImage, JGProgressHUD, SwiftyJSON
 
-## 관심분야
-- GCD를 사용한 멀티쓰레딩.
-- TDD에 관심을 갖고 Test에 용이한 MVVM 아키텍쳐에 대해 공부하고 있습니다.
 
 ## 프로젝트
 ### [ GitHubFollowers ] <img src = "https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
