@@ -58,7 +58,8 @@
 ![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/01.png)
 
 > 메신져 서비스 기업 LINE에서 진행하는 앱개발 첼린지에 지원하기 위해 개발했던 이미지 첨부가 가능한 메모앱.  
-> 앱개발 첼린지에서 합격한 개인 프로젝트
+> 앱개발 첼린지에서 합격한 개인 프로젝트  
+> LINE관련 이미지 변경 후 AppStore에 배포
 
 - 유닛 테스트 구현
 - 메모 추가, 수정, 삭제, 검색 기능 구현
@@ -80,5 +81,7 @@
 - 지난 코디 이미지 조회 기능
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/MyCloset
+
+#
 
 ### [ 다방 클론앱 ]
