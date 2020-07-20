@@ -30,21 +30,19 @@
 > GitHub 사용자 정보 검색을 및 저장을 위한 GitHub Followers 프로젝트
 
 - Third-party Library를 사용하지 않고 구현.
-- 개인적으로 진행한 프로젝트로 깃헙 아이디를 입력하면 해당 아이디의 Follower 또는 Following 데이터를 github API를 이용하여 불러와 CollectionView로 구성된 UI에 리스트를 보여주는 기능을 구현. 
+- 개인적으로 진행한 프로젝트로 깃헙 아이디를 입력하면 해당 아이디의 Follower 또는 Following 데이터를 github API를 이용하여 불러와 보여주는 기능.
+- 특정 깃헙 사용자의 기본정보 확인 및 깃헙페이지 이동, 원하는 유저를 즐겨찾기에 추가하여 별도 검색없이 찾을 수 있는 기능.
 - API 비동기 작업은 별도의 Singleton 클래스로 구현. 
 - ViewController를 커스텀하여 UI구성을 위한 Child ViewController로 활용. 
 - View의 상속을 통해 코드양을 줄이고 재사용성이 높임. 
 - 프로젝트 완성 후에 Appstore에 배포.
-
-
-
 - For DETAIL INFO: https://github.com/IMSEONGJUN/GitHubFollowers
 
   
 #
 ### [ TinderCopy ]<img src = "https://github.com/IMSEONGJUN/TinderCopy/blob/master/TinderCopy/Assets.xcassets/AppIcon.appiconset/Icon-120.png?raw=true" width = 50 align = right>
 ![이미지](https://github.com/IMSEONGJUN/TinderCopy/blob/master/images/New%20Project%20(3).png)
-> Tinder 앱을 카피한 연습용 프로젝트로
+> Tinder 앱을 카피한 연습용 개인 프로젝트
 
 - 실제 Tinder앱의 기능을 파악하고 애니메이션 및 기본적인 UI를 유사하게 구현하는 연습
 - MVVM 패턴을 적용하여 Reactive Programming 연습
@@ -60,7 +58,7 @@
 ![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/01.png)
 
 > 메신져 서비스 기업 LINE에서 진행하는 앱개발 첼린지에 지원하기 위해 개발했던 이미지 첨부가 가능한 메모앱.  
-> 앱개발 첼린지에서 합격한 프로젝트
+> 앱개발 첼린지에서 합격한 개인 프로젝트
 
 - 유닛 테스트 구현
 - 메모 추가, 수정, 삭제, 검색 기능 구현
@@ -73,7 +71,7 @@
 
 ![이미지](https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/screenshot/mycloset.png?raw=true)
 
-> 개인용 옷장 관리 기능을 갖춘 앱
+> 개인용 옷장 관리 기능을 갖춘 앱을 구현한 프로젝트
 
 - Firebase를 활용한 백엔드 구현
 - 'RemoveBG' API(https://www.remove.bg/ko)를 활용한 사진 백그라운드 제거 기능
