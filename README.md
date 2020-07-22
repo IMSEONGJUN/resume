@@ -84,4 +84,8 @@
 
 ### [ 다방 클론앱 ]
 
-> 패스트 캠퍼스 iOS School에서 진행했던 Backend School과의 협업 프로젝트 입니다.
+> 패스트 캠퍼스 iOS School에서 진행했던 Backend School과의 협업 프로젝트 입니다.  
+
+![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/dabangImages.png?raw=true)
+
+- For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330
