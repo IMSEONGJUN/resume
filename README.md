@@ -88,4 +88,4 @@
 
 ![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/dabangImages.png?raw=true)
 
-- For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330
+- For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330/tree/develop
