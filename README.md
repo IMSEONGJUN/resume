@@ -14,7 +14,7 @@
 
 진행했던 프로젝트 중에 2가지 앱을 앱스토어에 배포하여 서비스하고 있습니다.
 
-현재는 Reactive Programming과 MVVM 패턴에 관심을 같고, RxSwift와 함께 공부중입니다.
+현재는 Reactive Programming과 MVVM 패턴에 관심을 갖고, RxSwift와 함께 공부중입니다.
 
 - 사용언어: Swift, C++
 - 라이브러리: Alamofire, SnapKit, Google Firebase, SDWebImage, JGProgressHUD, SwiftyJSON
