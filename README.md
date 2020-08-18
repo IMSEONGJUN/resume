@@ -96,3 +96,5 @@
 - Reactive Programming 연습을 위해 진행한 프로젝트
 - Work on progress recently, not completed
 - Used Google Firestore for backend
+
+- For DETAIL INFO:https://github.com/IMSEONGJUN/WaffleChat
