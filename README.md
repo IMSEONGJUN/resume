@@ -90,7 +90,7 @@
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330/tree/develop
 #
-### WaffleChat
+### [ WaffleChat ]
 ![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/001.png?raw=true)  ![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/002.png?raw=true)
 - RxSwift 및 MVVM 패턴을 사용하여 만든 채팅앱
 - Reactive Programming 연습을 위해 진행한 프로젝트
