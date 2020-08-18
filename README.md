@@ -97,4 +97,4 @@
 - Work on progress recently, not completed
 - Used Google Firestore for backend
 
-- For DETAIL INFO:https://github.com/IMSEONGJUN/WaffleChat
+- For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
