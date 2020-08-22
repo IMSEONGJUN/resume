@@ -91,10 +91,10 @@
 - For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330/tree/develop
 #
 ### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
-![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/001.png?raw=true)  ![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/002.png?raw=true)
+![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat2.png?raw=true)
 - RxSwift 및 MVVM 패턴을 사용하여 만든 채팅앱
 - Reactive Programming 연습을 위해 진행한 프로젝트
-- Work on progress recently, 70% completed
+- Work on progress recently, 90% completed
 - Used Google Firestore for backend
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
