@@ -27,6 +27,7 @@
 > GitHub 사용자 정보 검색을 및 저장을 위한 GitHub Followers 프로젝트
 
 - Third-party Library를 사용하지 않고 구현.
+- 스토리보드를 사용하지 않고 진행한 프로젝트
 - 개인적으로 진행한 프로젝트로 깃헙 아이디를 입력하면 해당 아이디의 Follower 또는 Following 데이터를 github API를 이용하여 불러와 보여주는 기능.
 - 특정 깃헙 사용자의 기본정보 확인 및 깃헙페이지 이동, 원하는 유저를 즐겨찾기에 추가하여 별도 검색없이 찾을 수 있는 기능.
 - API 비동기 작업은 별도의 Singleton 클래스로 구현. 
@@ -45,6 +46,7 @@
 - MVVM 패턴을 적용하여 Reactive Programming 연습
 - Google Firebase, Firestore를 활용한 사용자 정보관리
 - UIPageViewController를 활용한 이미지 슬라이딩
+- 스토리보드를 사용하지 않고 진행한 프로젝트
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/TinderCopy
 
@@ -63,6 +65,8 @@
 - 메모 추가, 수정, 삭제, 검색 기능 구현
 - 메모에 이미지를 추가로 첨부가능
 - 이미지 첨부방식은 사진촬영, 사진첩, 이미지 URL
+- 스토리보드를 사용하지 않고 진행한 프로젝트
+
 - For DETAIL INFO: https://github.com/IMSEONGJUN/MemoWithPhoto
 
 #
@@ -77,6 +81,7 @@
 - 내가 가진 옷들을 촬영하여 앱에 카테고리 별로 저장
 - 각 카테고리 아이템을 조합하여 데일리 코디 기능
 - 지난 코디 이미지 조회 기능
+- 스토리보드를 사용하지 않고 진행한 프로젝트
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/MyCloset
 
