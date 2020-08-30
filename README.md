@@ -17,7 +17,7 @@
 현재는 Reactive Programming과 MVVM 패턴에 관심을 갖고, RxSwift와 함께 공부중입니다.
 
 - 사용언어: Swift, C++
-- 라이브러리: Alamofire, SnapKit, Google Firebase, SDWebImage, JGProgressHUD, SwiftyJSON
+- 주요 사용 라이브러리: SnapKit, Alamofire, Google Firebase, SDWebImage, JGProgressHUD, SwiftyJSON
 
 
 ## 프로젝트
