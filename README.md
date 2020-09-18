@@ -36,7 +36,14 @@
 - 프로젝트 완성 후에 Appstore에 배포.
 - For DETAIL INFO: https://github.com/IMSEONGJUN/GitHubFollowers
 
-  
+#
+### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
+![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat3.png?raw=true)
+- RxSwift와 MVVM 패턴을 사용하여 만든 실시간 채팅앱
+- Reactive Programming 연습을 위해 진행한 프로젝트
+- Used Google Firestore for backend
+- For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
+
 #
 ### [ TinderCopy ]<img src = "https://github.com/IMSEONGJUN/TinderCopy/blob/master/TinderCopy/Assets.xcassets/AppIcon.appiconset/Icon-120.png?raw=true" width = 50 align = right>
 ![이미지](https://github.com/IMSEONGJUN/TinderCopy/blob/master/images/New%20Project%20(3).png)
@@ -95,11 +102,4 @@
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330/tree/develop
 #
-### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
-![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat3.png?raw=true)
-- RxSwift 및 MVVM 패턴을 사용하여 만든 채팅앱
-- Reactive Programming 연습을 위해 진행한 프로젝트
-- Work on progress recently, 90% completed
-- Used Google Firestore for backend
 
-- For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
