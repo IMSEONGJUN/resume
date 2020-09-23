@@ -38,7 +38,7 @@ iOS 개발자 임성준 입니다.
 
 #
 ### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
-![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat3.png?raw=true)
+![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat4.png?raw=true)
 - RxSwift와 MVVM 패턴을 사용하여 만든 실시간 채팅앱
 - Reactive Programming 연습을 위해 진행한 프로젝트
 - Used Google Firestore for backend
