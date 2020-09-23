@@ -6,7 +6,7 @@
 - GitHub: https://github.com/IMSEONGJUN
 
 ## 간략 소개
-신입 iOS 개발자 임성준 입니다.
+iOS 개발자 임성준 입니다.
 
 2019년 5월부터 C++를 시작으로 개발에 입문하였습니다.  
 
