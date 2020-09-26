@@ -8,13 +8,17 @@
 ## 간략 소개
 iOS 개발자 임성준 입니다.
 
-2019년 5월부터 C++를 시작으로 개발에 입문하였습니다.  
+C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운영체제 및 기타 CS관련 지식들을 공부해왔습니다. 
 
-2019년 11월부터 Swift와 iOS 개발을 배우기 시작하였고, 지금까지 개인 프로젝트 및 팀 프로젝트를 진행해왔습니다.
+현재는 Swift와 iOS 개발을 공부하며 개인 프로젝트 및 팀 프로젝트를 진행해오고 있습니다.
 
-진행했던 프로젝트 중에 2가지 앱을 앱스토어에 배포하여 서비스하고 있습니다.
+진행해온 프로젝트 중에 2가지 앱을 앱스토어에 배포하여 서비스하고 있습니다. 
 
-현재는 Reactive Programming과 MVVM 패턴에 관심을 갖고, RxSwift와 함께 공부중입니다.
+최근에 가장 관심을 갖고 공부하고 있는 분야는 Reactive Programming과 MVVM 패턴이며, RxSwift와 함께 공부중입니다.
+
+이와 관련하여 Unit Test에 용이하도록 View와 ViewModel간의 decoupling에 중점을 두고 코드를 구현하고 있습니다.
+
+해당 프로젝트명은 WaffleChat 입니다.
 
 - 사용언어: Swift, C++
 - 주요 사용 라이브러리: SnapKit, Alamofire, Google Firebase, SDWebImage, JGProgressHUD, SwiftyJSON
