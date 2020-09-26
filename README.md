@@ -20,9 +20,10 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 
 해당 프로젝트명은 WaffleChat 입니다.
 
+## 언어 및 라이브러리
 - 사용언어: Swift, C++
-- 주요 사용 라이브러리: SnapKit, Alamofire, Google Firebase, SDWebImage, JGProgressHUD, SwiftyJSON
-
+- 주요 사용 라이브러리: SnapKit, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON
+- 분석툴 및 데이터베이스: Google Firebase Analytics, Google Firebase Firestore
 
 ## 프로젝트
 ### [ GitHubFollowers ] <img src = "https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
