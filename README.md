@@ -16,7 +16,7 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 
 최근에 가장 관심을 갖고 공부하고 있는 분야는 Functional Reactive Programming과 MVVM 패턴이며, RxSwift와 함께 공부중입니다.
 
-이와 관련하여 Unit Test에 용이하도록 View와 ViewModel간의 decoupling에 중점을 두고 코드를 구현하고 있습니다.
+이와 관련하여 Unit-Test에 용이하도록 View와 ViewModel간의 Decoupling에 중점을 두고 코드를 구현하고 있습니다.
 
 해당 프로젝트명은 WaffleChat 입니다.
 
