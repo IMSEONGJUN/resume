@@ -18,7 +18,7 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 
 이와 관련하여 Unit-Test에 용이하도록 View와 ViewModel간의 Decoupling에 중점을 두고 코드를 구현하고 있습니다.
 
-해당 프로젝트명은 WaffleChat 입니다.
+해당 프로젝트명은 하단 프로젝트들 중 WaffleChat 입니다.
 
 ## 언어 및 라이브러리
 - 사용언어: Swift, C++
