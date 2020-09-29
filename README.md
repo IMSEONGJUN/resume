@@ -92,7 +92,7 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 - 커스텀 콜렉션뷰 레이아웃 구현(aka. Pinterest Layout)
 - DispatchGroup을 사용한 비동기작업 종료시점 처리 
 - 커스텀 LRU Cache를 구현하여 네트워크 이미지 캐싱처리 ( https://github.com/IMSEONGJUN/SwiftyLRUCache )
-- AVKit을 활용한 사진촬영 기능
+- 사진촬영 기능
 - 'RemoveBG' API(https://www.remove.bg/ko) 를 활용한 사진 백그라운드 제거 기능
 - 내가 가진 옷들을 촬영하여 앱에 카테고리 별로 저장
 - 각 카테고리 아이템을 조합하여 데일리 코디 기능
