@@ -121,4 +121,6 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 - 키워드 기준으로 웹상의 이미지 검색
 - 이미지 선택하여 즐겨찾기에 추가 가능
 - 즐겨찾기 이미지는 디바이스에 저장
-- RxSwift 사용
+- MVVM 패턴, RxSwift 사용
+
+- Repository: https://github.com/IMSEONGJUN/ImageSearch
