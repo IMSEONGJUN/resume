@@ -116,7 +116,7 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 - 기간 : 2020.10.08 ~ 2020.10.11
 # Video Link : https://youtu.be/e6EBgg_vcb8
 
-![이미지](https://github.com/IMSEONGJUN/ImageSearcher/blob/main/ImageSearcher/ImageSearcher/screenshot/ImageSearcher.png?raw=true)
+![이미지](https://github.com/IMSEONGJUN/ImageSearch/blob/main/ImageSearcher/ImageSearcher/screenshot/ImageSearcher.png?raw=true)
 
 - 키워드 기준으로 웹상의 이미지 검색
 - 이미지 선택하여 즐겨찾기에 추가 가능
