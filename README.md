@@ -16,12 +16,10 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 
 최근에 프로젝트를 진행하면서 사용하는 아키텍처는 MVVM 패턴이며, RxSwift를 활용하여 구현합니다.
 
-이와 관련하여 Unit-Test에 용이하도록 View와 ViewModel간의 Decoupling에 중점을 두고 코드를 구현하고 있습니다.
-
 
 ## 언어 및 라이브러리
 - 사용언어: Swift, C++
-- 주요 사용 라이브러리: SnapKit, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON
+- 주요 사용 라이브러리: SnapKit, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxOptional, Toaster, RxSwift, RxCocoa
 - 분석툴 및 데이터베이스: Google Firebase Analytics, Google Firebase Firestore
 
 ## 프로젝트
@@ -47,6 +45,22 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 - Used Google Firestore for backend
 - SnapKit을 활용하여 UI구현
 - For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
+
+#
+### [ ImageSearcher ]
+- 기간 : 2020.10.08 ~ 2020.10.11
+# Video Link : https://youtu.be/e6EBgg_vcb8
+
+![이미지](https://github.com/IMSEONGJUN/ImageSearch/blob/main/ImageSearcher/ImageSearcher/screenshot/ImageSearcher.png?raw=true)
+
+- MVVM 패턴, RxSwift 사용.
+- RxCocoa Custom ControlEvent, Custom Binder 활용.
+- Kakao Image Search API 사용.
+- 키워드 기준으로 웹상의 이미지 검색
+- 이미지 선택하여 즐겨찾기에 추가 가능
+- 즐겨찾기에 추가한 이미지, 로컬 저장에 JSONEncoder와 UserDefault 사용
+
+- Repository: https://github.com/IMSEONGJUN/ImageSearch
 
 #
 ### [ TinderCopy ]<img src = "https://github.com/IMSEONGJUN/TinderCopy/blob/master/TinderCopy/Assets.xcassets/AppIcon.appiconset/Icon-120.png?raw=true" width = 50 align = right>
@@ -112,15 +126,3 @@ C++를 시작으로 개발에 입문하여 C언어와 함께 자료구조, 운�
 - For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330/tree/develop
 #
 
-### [ ImageSearcher ]
-- 기간 : 2020.10.08 ~ 2020.10.11
-# Video Link : https://youtu.be/e6EBgg_vcb8
-
-![이미지](https://github.com/IMSEONGJUN/ImageSearch/blob/main/ImageSearcher/ImageSearcher/screenshot/ImageSearcher.png?raw=true)
-
-- 키워드 기준으로 웹상의 이미지 검색
-- 이미지 선택하여 즐겨찾기에 추가 가능
-- 즐겨찾기 이미지는 디바이스에 저장
-- MVVM 패턴, RxSwift 사용
-
-- Repository: https://github.com/IMSEONGJUN/ImageSearch
