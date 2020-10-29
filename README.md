@@ -43,7 +43,6 @@ UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코�
 ### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
 ![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat4.png?raw=true)
 - RxSwift와 MVVM 패턴을 사용하여 만든 실시간 채팅앱
-- Reactive Programming 연습을 위해 진행한 프로젝트
 - Used Google Firestore for backend
 - SnapKit을 활용하여 UI구현
 - For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
@@ -69,11 +68,12 @@ UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코�
 ![이미지](https://github.com/IMSEONGJUN/TinderCopy/blob/master/images/New%20Project%20(3).png)
 > Tinder 앱을 카피한 연습용 개인 프로젝트
 
-- 실제 Tinder앱의 기능을 파악하고 애니메이션 및 기본적인 UI를 유사하게 구현하는 연습
-- MVVM 패턴을 적용하여 Reactive Programming 연습
+- MVVM 패턴을 적용하여 실제 Tinder앱의 기능을 파악하고 애니메이션 및 기본적인 UI를 유사하게 구현하는 연습
+- ViewModel 내부 프로퍼티의 Observable 패턴적용
 - Google Firebase, Firestore를 활용한 사용자 정보관리
 - UIPageViewController를 활용한 이미지 슬라이딩
 - 비동기 네트워킹 작업에 DispatchGroup을 활용
+- 다양한 애니메이션 구현
 
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/TinderCopy
