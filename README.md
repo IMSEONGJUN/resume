@@ -41,6 +41,7 @@ UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코�
 
 #
 ### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
+## Video Link: https://youtu.be/p3zgqgrtMbs
 ![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat4.png?raw=true)
 - RxSwift와 MVVM 패턴을 사용하여 만든 실시간 채팅앱
 - Used Google Firestore for backend
