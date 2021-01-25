@@ -19,6 +19,8 @@ iOS 개발자 임성준 입니다.
 
 UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코드 사용시에는 SnapKit을 사용합니다.
 
+최근에는 SwiftUI를 사용하여 Widget 구현 업무를 수행하였습니다.
+
 ## 언어 및 라이브러리
 - 사용언어: Swift, C++, Objective-C
 - 주요 사용 라이브러리: SnapKit, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxOptional, Toaster, RxSwift, RxCocoa
