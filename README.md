@@ -9,7 +9,7 @@
 
 iOS 개발자 임성준 입니다.
 
-2019년 5월부터 C++를 시작으로 개발에 처음 입문하여 자료구조, 운영체제 및 기타 CS관련 지식들을 공부해왔습니다.
+2019년부터 C++를 시작으로 개발에 처음 입문하여 자료구조, 운영체제 및 기타 CS관련 지식들을 공부해왔습니다.
 
 현재는 iOS개발자로 근무하고 있으며, Swift와 RxSwift, Objective-C를 사용하여 개발 가능합니다.
 
@@ -22,7 +22,7 @@ UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코�
 최근에는 SwiftUI를 사용하여 Widget 구현 업무를 수행하였습니다.
 
 ## 언어 및 라이브러리
-- 사용언어: Swift, C++, Objective-C
+- 사용언어: Swift, Objective-C, C++
 - 주요 사용 라이브러리: SnapKit, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxOptional, Toaster, RxSwift, RxCocoa
 - 분석툴 및 데이터베이스: Google Firebase Analytics, Google Firebase Firestore
 
