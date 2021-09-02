@@ -11,20 +11,21 @@ iOS 개발자 임성준 입니다.
 
 2019년부터 C++를 시작으로 개발에 처음 입문하여 자료구조, 운영체제 및 기타 CS관련 지식들을 공부해왔습니다.
 
-현재는 iOS개발자로 근무하고 있으며, Swift와 RxSwift, Objective-C를 사용하여 개발 가능합니다.
+현재는 큐피스트에서 GLAM(글램) iOS개발자로 근무하고 있으며, Swift와 RxSwift, Objective-C를 사용하여 개발 가능합니다.
 
-개인적으로 진행해온 프로젝트 중에 2가지 앱을 앱스토어에 배포하여 서비스하고 있습니다.
+개발자로 근무하기 전, 개인적으로 진행해온 프로젝트 중에 2가지 앱을 앱스토어에 배포하여 서비스하고 있습니다.
 
-최근에 프로젝트를 진행하면서 사용하는 아키텍처는 MVVM 패턴이며, RxSwift를 활용하여 구현합니다.
+최근에 업무에서 사용하는 아키텍처는 MVVM 패턴이며, RxSwift를 활용하여 구현합니다.
 
-UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코드 사용시에는 SnapKit을 사용합니다.
+UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코드 사용을 더 선호하며, 코드 사용시에는 SnapKit을 사용합니다.
 
-최근에는 SwiftUI를 사용하여 Widget 구현 업무를 수행하였습니다.
+UI, 코디네이터 패턴 및 앱 아키텍쳐에 관심이 많습니다.
+
 
 ## 언어 및 라이브러리
 - 사용언어: Swift, Objective-C, C++
-- 주요 사용 라이브러리: SnapKit, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxOptional, Toaster, RxSwift, RxCocoa
-- 분석툴 및 데이터베이스: Google Firebase Analytics, Google Firebase Firestore
+- 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxOptional, Toaster
+- 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore
 
 ## 프로젝트
 ### [ GitHubFollowers ] <img src = "https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
