@@ -11,23 +11,33 @@ iOS 개발자 임성준 입니다.
 
 2019년부터 C++를 시작으로 개발에 처음 입문하여 자료구조, 운영체제 및 기타 CS관련 지식들을 공부해왔습니다.
 
-현재는 큐피스트에서 GLAM(글램) iOS개발자로 근무하고 있으며, Swift와 RxSwift, Objective-C를 사용하여 개발 가능합니다.
+현재는 큐피스트에서 GLAM iOS개발자로 근무하고 있으며, MVVM 패턴으로 Swift와 RxSwift를 사용하여 개발합니다.
 
-개발자로 근무하기 전, 개인적으로 진행해온 프로젝트 중에 2가지 앱을 앱스토어에 배포하여 서비스하고 있습니다.
+큐피스트에서 2021년 말에 런칭한 글램 라이브를 최초 기획 단계부터 참여하여 개발하였으며, 
 
-최근에 업무에서 사용하는 아키텍처는 MVVM 패턴이며, RxSwift를 활용하여 구현합니다.
+- 1:1 랜덤 매칭 영상통화 UI 및 기능 개발
 
-UI는 Storyboard 와 코드로 모두 능숙하게 구현 가능합니다. 코드 사용을 더 선호하며, 코드 사용시에는 SnapKit을 사용합니다.
+- 라이브 브로드캐스팅 피처 전체 UI 구현, SnapKit 사용
+
+- WebSocket(Pusher)을 활용한 실시간 이벤트 처리
+(라이브방 입퇴장, 라이브방 정보 변경, 게스트/호스트 인터렉션, 채팅, 강제종료 및 각종 제재 처리 등)
+
+- Agora SDK를 활용한 라이브 영상 스트리밍 커뮤니케이션 기능 구현
+(단방향, 양방향) 
+
+- 라이브스트리밍 내 신규 재화 구매(IAP)및 방송 중 도네이션 기능 구현
+
+등, 대부분의 기능 개발에 기여하였으며, 지속적인 신규 기능 개발 중에 있습니다.
 
 UI, 코디네이터 패턴 및 앱 아키텍쳐에 관심이 많습니다.
 
 
 ## 언어 및 라이브러리
 - 사용언어: Swift, Objective-C, C++
-- 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxOptional, Toaster
+- 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxGesture
 - 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore
 
-## 프로젝트
+## 개인 프로젝트(2019 ~ 2020)
 ### [ GitHubFollowers ] <img src = "https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
 [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg">](https://itunes.apple.com/us/app/github-followers/id1497318994?mt=8) [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://itunes.apple.com/kr/app/github-followers/id1497318994?mt=8)
 ![이미지](https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/screenshot/GitHubFollowers.png?raw=true)
@@ -35,8 +45,7 @@ UI, 코디네이터 패턴 및 앱 아키텍쳐에 관심이 많습니다.
 
 - Third-party Library를 사용하지 않고 구현.
 - 개인적으로 진행한 프로젝트로 깃헙 아이디를 입력하면 해당 아이디의 Follower 또는 Following 데이터를 github API를 이용하여 불러와 보여주는 기능.
-- 특정 깃헙 사용자의 기본정보 확인 및 깃헙페이지 이동, 원하는 유저를 즐겨찾기에 추가하여 별도 검색없이 찾을 수 있는 기능.
-- API 비동기 작업은 별도의 Singleton 클래스로 구현. 
+- 특정 깃헙 사용자의 기본정보 확인 및 깃헙페이지 이동, 원하는 유저를 즐겨찾기에 추가하여 별도 검색없이 찾을 수 있는 기능. 
 - ViewController를 커스텀하여 UI구성을 위한 Child ViewController로 활용. 
 - View의 상속을 통해 코드양을 줄이고 재사용성이 높임. 
 - 프로젝트 완성 후에 Appstore에 배포.
