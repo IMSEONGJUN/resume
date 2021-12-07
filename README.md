@@ -34,7 +34,7 @@ UI, 코디네이터 패턴 및 앱 아키텍쳐에 관심이 많습니다.
 
 ## 언어 및 라이브러리
 - 사용언어: Swift, Objective-C, C++
-- 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, JGProgressHUD, SwiftyJSON, RxGesture
+- 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, SwiftyJSON, RxGesture
 - 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore
 
 ## 개인 프로젝트(2019 ~ 2020)
