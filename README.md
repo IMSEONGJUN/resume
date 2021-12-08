@@ -39,7 +39,14 @@ UI, 코디네이터 패턴 및 앱 아키텍쳐에 관심이 많습니다.
 
 ## 경력
 - (주)큐피스트 : 2021.03 ~ 근무중
+  - 글램 라이브 스트리밍(라이브 데이팅) 개발
+  - 1:1 랜덤 매칭 라이브콜 기능개발 및 유지보수
+  - GLAM 스토어(IAP) RxSwift로 리팩토링
+  - GLAM 데이팅 유지보수
+  
 - (주)나인폴더스 : 2020.10 ~ 2021.02
+  - 이메일 클라이언트앱 개발 및 유지보수
+  - https://www.9folders.com/ko/index.html
 
 ## 개인 프로젝트(2019 ~ 2020)
 ### [ GitHubFollowers ] <img src = "https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
