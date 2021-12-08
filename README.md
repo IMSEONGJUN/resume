@@ -37,6 +37,7 @@ UI, 코디네이터 패턴 및 앱 아키텍쳐에 관심이 많습니다.
 - 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, SwiftyJSON, RxGesture
 - 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore
 
+
 ## 경력
 - (주)큐피스트 : 2021.03 ~ 근무중
   - 글램 라이브 스트리밍(라이브 데이팅) 개발
