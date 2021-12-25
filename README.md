@@ -17,6 +17,7 @@ iOS 개발자 임성준 입니다.
 
 2021년 12월에 글램에서 새롭게 런칭한 라이브 스트리밍(글램 라이브) 서비스를 최초 기획 단계부터 참여하여 개발하였습니다(RxSwift + MVVM)  
 [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/%EA%B8%80%EB%9E%A8-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%B9%9C%EA%B5%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%82%A8%EC%9D%84-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C/id1058232900)
+
 - GLAM 스토어(IAP) RxSwift + MVVM 으로 리팩토링
 
 - 1:1 랜덤 매칭 영상통화 UI 및 기능 개발
@@ -36,8 +37,6 @@ iOS 개발자 임성준 입니다.
 Code-based UI 구현에 관심이 많고 글램에서 근무하면서 동적이고 복잡한 UI처리 경험이 많습니다. 
 
 RxSwift에도 큰 흥미를 갖고 업무 활용하면서 지속적으로 공부 중입니다. 
-
-아래은 저의 이력서 입니다.
 
 
 ## 언어 및 라이브러리
