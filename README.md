@@ -24,6 +24,8 @@ iOS 개발자 임성준 입니다.
 
 - 라이브 스트리밍(글램 라이브) 피처 전체 UI 구현, SnapKit 사용
 
+- 라이브 스트리밍 홈(RxDataSources를 사용한 Nested CollectionView 구현)
+
 - WebSocket(Pusher)을 활용한 실시간 이벤트 처리
 (라이브방 입퇴장, 라이브방 정보 변경, 소켓이벤트를 통한 게스트/호스트 인터렉션, 채팅, 강제종료 등)
 
