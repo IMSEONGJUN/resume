@@ -19,9 +19,11 @@ iOS 개발자 임성준 입니다.
 (개발기간 2021.07 ~ 2021.12, iOS 개발 인원: 2명)  
 [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/%EA%B8%80%EB%9E%A8-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%B9%9C%EA%B5%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%82%A8%EC%9D%84-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C/id1058232900)
 
-- GLAM 스토어(IAP) RxSwift + MVVM 으로 리팩토링
-
-- 1:1 랜덤 매칭 영상통화 UI 및 기능 개발
+- GLAM 스토어(IAP) 리팩토링
+  - 기간: 2021.04.26 ~ 04.30
+  - UICollectionView에 RxDataSources, 결제 모듈에 SwiftyStoreKit 사용
+  - 코드량을 줄이고 가독성을 높이는 결과를 얻음 
+  - iOS 14에서 추가된 SKError.Code 핸들링
 
 - 라이브 스트리밍(글램 라이브) 피처 전체 UI 구현, SnapKit 사용
 
@@ -34,6 +36,8 @@ iOS 개발자 임성준 입니다.
 (단방향, 양방향) 
 
 - 라이브스트리밍 내 신규 재화 구매(IAP)및 방송 중 도네이션 기능 구현
+
+- 1:1 랜덤 매칭 영상통화 UI 및 기능 개발
 
 등의 대부분의 기능 개발에 기여하였으며, 지속적인 신규 기능 개발 중에 있습니다. 
 
