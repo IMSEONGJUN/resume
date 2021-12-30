@@ -27,11 +27,14 @@ iOS 개발자 임성준 입니다.
   - 스토어에 신규 상품 추가
 
 - 라이브 스트리밍(글램 라이브) 피처 전체 UI 구현, SnapKit 사용
-
-- 라이브 스트리밍 홈(RxDataSources를 사용한 Nested CollectionView 구현)
+  - 라이브 스트리밍 홈(RxDataSources를 사용한 Nested CollectionView 구현)
+  - 라이브 방송 비디오 슬롯 동적 구성
+  - layered UI에 적용된 TapGesture 예외 처리
+  - 라이브 참여자 2~4명인 경우 비디오슬롯 화자 표현
 
 - WebSocket(Pusher)을 활용한 실시간 이벤트 처리
 (라이브방 입퇴장, 라이브방 정보 변경, 소켓이벤트를 통한 게스트/호스트 인터렉션, 채팅, 강제종료 등)
+  - 라이브 참여자 4인 초과이고 초과된 대상이 본인인 경우를 체크하기 위해 Stack 활용
 
 - Agora SDK를 활용한 라이브 영상 스트리밍 커뮤니케이션 기능 구현
 (단방향, 양방향) 
