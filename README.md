@@ -16,7 +16,9 @@ iOS 개발자 임성준 입니다.
 큐피스트가 서비스하는 데이팅앱인 GLAM의 유지보수 및 기능개발 업무를 진행하였으며 
 
 2021년 12월에 글램에서 새롭게 런칭한 라이브 스트리밍(글램 라이브) 서비스를 최초 기획 단계부터 참여하여 개발하였습니다. 
-(개발기간 2021.07 ~ 2021.12, iOS 개발 인원: 2명)  
+  - 개발기간 2021.07 ~ 2021.12(5개월) 
+  -  iOS 개발 인원: 2명
+  -  앱 다운로드  
 [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/%EA%B8%80%EB%9E%A8-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%B9%9C%EA%B5%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%82%A8%EC%9D%84-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C/id1058232900)
 
 - GLAM 스토어(IAP) 리팩토링
