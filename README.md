@@ -66,7 +66,10 @@ Code-based UI 구현에 관심이 많고, 매끄러운 RxSwift 사용을 위해 
 - (주)나인폴더스 : 2020.10.14 ~ 2021.02
   - 이메일 클라이언트앱 개발 및 유지보수
   - https://www.9folders.com/ko/index.html
-
+  
+## 학력
+ - 경희대학교, 영어통번역학
+ 
 ## 개인 프로젝트(2019 ~ 2020)
 ### [ GitHubFollowers ] <img src = "https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
 [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg">](https://itunes.apple.com/us/app/github-followers/id1497318994?mt=8) [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://itunes.apple.com/kr/app/github-followers/id1497318994?mt=8)
