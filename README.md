@@ -31,7 +31,7 @@ iOS 개발자 임성준 입니다.
 - 라이브 스트리밍(글램 라이브) 피처 전체 UI 구현, SnapKit 사용
   - 라이브 스트리밍 홈(RxDataSources를 사용한 Nested CollectionView 구현)
   - 라이브 방송 참여자 수에 따른 비디오 슬롯 동적 구성
-  - 복잡한 계층구조의 layered UI가 적용된 라이브 방송 화면에 TapGesture 예외 처리
+  - 복잡한 계층구조의 layered UI가 적용된 라이브 방송 화면에 leftSwipeGesture, TapGesture 예외 처리
   - 라이브 참여자 2~4명인 경우 비디오슬롯 비동기 화자 표현
 
 - WebSocket(Pusher)을 활용한 실시간 이벤트 처리
