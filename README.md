@@ -15,28 +15,28 @@ iOS 개발자 임성준 입니다.
 
 큐피스트가 서비스하는 데이팅앱인 GLAM의 유지보수 및 기능개발 업무를 진행하였으며 
 
-2021년 12월에 글램에서 새롭게 런칭한 라이브 스트리밍(글램 라이브) 서비스를 최초 기획 단계부터 참여하여 개발하였습니다. 
-  - 개발기간 2021.07 ~ 2021.12(5개월) 
-  -  iOS 개발 인원: 2명
-  -  앱 다운로드  
-[<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/%EA%B8%80%EB%9E%A8-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%B9%9C%EA%B5%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%82%A8%EC%9D%84-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C/id1058232900)
-
 - GLAM 스토어(IAP) 리팩토링
   - 기간: 2021.04.26 ~ 04.30
+  - 기존 MVC 구조에서 RxSwift + MVVM 구조로 변경
   - UICollectionView에 RxDataSources, 결제 모듈에 SwiftyStoreKit 사용
   - 코드량을 줄이고 가독성을 높이는 결과를 얻음 
-  - iOS 14에서 추가된 SKError.Code 핸들링
-  - 스토어에 신규 상품 추가
+  - 스토어에 신규 재화 추가
+  
+2021년 12월에 글램에서 새롭게 런칭한 라이브 스트리밍(글램 라이브) 서비스를 최초 기획 단계부터 참여하여 개발하였습니다. 
+  - 기간: 2021.07 ~ 2021.12(5개월) 
+  - iOS 개발 인원: 2명
+  - 앱 다운로드  
+[<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/%EA%B8%80%EB%9E%A8-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%B9%9C%EA%B5%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%82%A8%EC%9D%84-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C/id1058232900)
 
 - 라이브 스트리밍(글램 라이브) 피처 전체 UI 구현, SnapKit 사용
   - 라이브 스트리밍 홈(RxDataSources를 사용한 Nested CollectionView 구현)
-  - 라이브 방송 비디오 슬롯 동적 구성
-  - layered UI에 적용된 TapGesture 예외 처리
+  - 라이브 방송 참여자 수에 따른 비디오 슬롯 동적 구성
+  - 복잡한 계층구조의 layered UI가 적용된 라이브 방송 화면에 TapGesture 예외 처리
   - 라이브 참여자 2~4명인 경우 비디오슬롯 비동기 화자 표현
 
 - WebSocket(Pusher)을 활용한 실시간 이벤트 처리
 (라이브방 입퇴장, 라이브방 정보 변경, 소켓이벤트를 통한 게스트/호스트 인터렉션, 채팅, 강제종료 등)
-  - 라이브 참여자 4인 초과이고 초과된 대상이 본인인 경우를 체크하기 위해 Stack 활용
+  - 라이브 참여자 최대치 4인 초과되는 경우, 초과된 대상이 본인인 경우를 체크하기 위해 Stack 활용
 
 - Agora SDK를 활용한 라이브 영상 스트리밍 커뮤니케이션 기능 구현
 (단방향, 양방향) 
