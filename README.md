@@ -15,7 +15,8 @@ iOS 개발자 임성준 입니다.
 
 큐피스트가 서비스하는 데이팅앱인 GLAM의 유지보수 및 기능개발 업무를 진행하였으며 
 
- - 기간: 2021.04.26 ~ 04.30
+GLAM 스토어(IAP) 리팩토링
+  - 기간: 2021.04.26 ~ 04.30
   - 기존 MVC 구조에서 RxSwift + MVVM 구조로 변경
   - UICollectionView에 RxDataSources, 결제 모듈에 SwiftyStoreKit 사용
   - 코드량을 줄이고 가독성을 높이는 결과를 얻음
