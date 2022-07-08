@@ -21,6 +21,7 @@ Code-based UI 작업을 선호하고, 매끄러운 RxSwift 사용을 위해 지�
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
   - MVVM + RxSwift 
   - SnapKit, Moya
+  - 앱 Localization 처리
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
   - GLAM 라이브 스트리밍(라이브 데이팅) 개발
