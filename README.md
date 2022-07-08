@@ -9,70 +9,63 @@
 
 iOS 개발자 임성준 입니다.
 
-동료가 보기에 잘 읽히는 코드를 작성하려고 노력하며, RxSwift 사용에 적극적이고 Swift 기본기를 중요하게 생각합니다.
+동료가 보기에 잘 읽히는 코드를 작성하려고 노력하며, Swift 기본기를 중요하게 생각하고 RxSwift 사용에 적극적입니다.
 
-현재 큐피스트에서 GLAM iOS개발자로 근무하고 있으며, MVVM 패턴으로 Swift와 RxSwift를 사용하여 개발합니다.
+동료들과의 코드리뷰를 통해 서로의 성장에 도움이 될 수 있도록 적극적으로 참여하고 있습니다.
 
-큐피스트가 서비스하는 데이팅앱인 GLAM의 유지보수 및 기능개발 업무를 진행하였으며 
+현재는 라이브커머스 플랫폼 'GRIP' 에서 iOS개발자로 근무하고 있습니다. 
 
-GLAM 스토어(IAP) 리팩토링
-  - 기간: 2021.04.26 ~ 04.30
-  - 기존 MVC 구조에서 RxSwift + MVVM 구조로 변경
-  - UICollectionView에 RxDataSources, 결제 모듈에 SwiftyStoreKit 사용
-  - 코드량을 줄이고 가독성을 높이는 결과를 얻음
-  - 스토어에 신규 재화 추가
+Code-based UI 작업을 선호하고, 매끄러운 RxSwift 사용을 위해 지속적으로 공부 중입니다. 
+
+## 경력
+- (주)그립컴퍼니 : 2022.03 ~ 근무중
+  - MVVM + RxSwift 
+  - SnapKit, Moya
+
+- (주)큐피스트 : 2021.03 ~ 2022.02
+  - GLAM 라이브 스트리밍(라이브 데이팅) 개발
+    - 2021년 12월에 글램에서 새롭게 런칭한 라이브 스트리밍(글램 라이브) 서비스를 최초 기획 단계부터 참여하여 개발하였습니다
+    - 기간: 2021.07 ~ 2021.12(5개월) 
+    - iOS 개발 인원: 2명
+    - 앱 다운로드  
+    [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/%EA%B8%80%EB%9E%A8-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%B9%9C%EA%B5%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%82%A8%EC%9D%84-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C/id1058232900)
+    
+    - 라이브 스트리밍(글램 라이브) 피처 전체 UI 구현, SnapKit 사용
+      - 라이브 스트리밍 홈(RxDataSources를 사용한 Nested CollectionView 구현)
+      - 라이브 방송 참여자 수에 따른 비디오 슬롯 동적 구성(최대 4명)
+      - 복잡한 계층구조의 layered UI가 적용된 라이브 방송 화면의 특정 뷰에서 leftSwipeGesture, TapGesture 예외 처리
+      - 라이브 참여자 2~4명인 경우 비디오슬롯 비동기 화자 표현
+
+    - WebSocket(Pusher)을 활용한 실시간 이벤트 처리(라이브방 입퇴장, 라이브방 정보 변경, 소켓이벤트를 통한 게스트/호스트 인터렉션, 채팅, 강제종료 등)
+    - 라이브방에서 발생하는 소켓이벤트에 대해 이벤트별 바인딩 및 Rx 시퀀스 분리를 통한 이벤트 처리
+    - 게스트/호스트간 인터렉션에는 HTTP 사용(Moya)
+    - 라이브 참여자 최대치 4인 초과되는 경우, 초과된 대상이 본인인 경우를 체크하기 위해 Stack 활용
+
+    - Agora SDK를 활용한 라이브 영상 스트리밍 커뮤니케이션 기능 구현(단방향, 양방향)
+    - 참여인원 1~4인, 인원에 따른 비디오/오디오 송출 및 화면 분할
+    - 참여자 마이크/카메라 on/off 이벤트 바인딩 및 역할에 따른 이벤트 처리
+
+    - 글램라이브 내 신규 재화 구매(IAP)및 방송 중 도네이션 기능 구현
+    
+  - 1:1 랜덤 매칭 라이브콜(영상통화) 기능개발 및 유지보수
   
-2021년 12월에 글램에서 새롭게 런칭한 라이브 스트리밍(글램 라이브) 서비스를 최초 기획 단계부터 참여하여 개발하였습니다. 
-  - 기간: 2021.07 ~ 2021.12(5개월) 
-  - iOS 개발 인원: 2명
-  - 앱 다운로드  
-[<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/%EA%B8%80%EB%9E%A8-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%B9%9C%EA%B5%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%82%A8%EC%9D%84-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C/id1058232900)
+  - GLAM 스토어(IAP) RxSwift로 리팩토링
+    - 기간: 2021.04.26 ~ 04.30
+    - 기존 MVC 구조에서 RxSwift + MVVM 구조로 변경
+    - UICollectionView에 RxDataSources, 결제 모듈에 SwiftyStoreKit 사용
+    - 코드량을 줄이고 가독성을 높이는 결과를 얻음
+    - 스토어에 신규 재화 추가
+    
+  - GLAM 데이팅 유지보수
 
-- 라이브 스트리밍(글램 라이브) 피처 전체 UI 구현, SnapKit 사용
-  - 라이브 스트리밍 홈(RxDataSources를 사용한 Nested CollectionView 구현)
-  - 라이브 방송 참여자 수에 따른 비디오 슬롯 동적 구성
-  - 복잡한 계층구조의 layered UI가 적용된 라이브 방송 화면의 특정 뷰에서 leftSwipeGesture, TapGesture 예외 처리
-  - 라이브 참여자 2~4명인 경우 비디오슬롯 비동기 화자 표현
-
-- WebSocket(Pusher)을 활용한 실시간 이벤트 처리
-(라이브방 입퇴장, 라이브방 정보 변경, 소켓이벤트를 통한 게스트/호스트 인터렉션, 채팅, 강제종료 등)
-  - 라이브방에서 발생하는 소켓이벤트에 대해 이벤트별 바인딩 및 Rx 시퀀스 분리를 통한 이벤트 처리
-  - 게스트/호스트간 인터렉션에는 HTTP 사용(Moya)
-  - 라이브 참여자 최대치 4인 초과되는 경우, 초과된 대상이 본인인 경우를 체크하기 위해 Stack 활용
-
-- Agora SDK를 활용한 라이브 영상 스트리밍 커뮤니케이션 기능 구현
-(단방향, 양방향)
-  - 참여인원 1~4인, 인원에 따른 비디오/오디오 송출 및 화면 분할
-  - 참여자 마이크/카메라 on/off 이벤트 바인딩 및 역할에 따른 이벤트 처리
-
-- 글램라이브 내 신규 재화 구매(IAP)및 방송 중 도네이션 기능 구현
-
-- 1:1 랜덤 매칭 영상통화 UI 및 기능 개발
-  - Up swipe 시 매칭 시도 화면으로 전환
-  - 최초 매칭시 상대 화면 블러처리
-  - 매칭 상대 신고 기능 구현
-
-등의 대부분의 기능 개발에 기여하였으며, 지속적인 신규 기능 개발 중에 있습니다. 
-
-Code-based UI 구현에 관심이 많고, 매끄러운 RxSwift 사용을 위해 지속적으로 공부 중입니다. 
-
+- (주)나인폴더스 : 2020.10.14 ~ 2021.02
+  - 이메일 클라이언트앱 개발 및 유지보수(Objective-C 100% 프로젝트)
+  - https://www.9folders.com/ko/index.html
 
 ## 언어 및 라이브러리
 - 사용언어: Swift, Objective-C, C++
 - 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, SwiftyJSON, RxGesture
 - 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore
-
-
-## 경력
-- (주)큐피스트 : 2021.03.02 ~ 근무중
-  - GLAM 라이브 스트리밍(라이브 데이팅) 개발
-  - 1:1 랜덤 매칭 라이브콜(영상통화) 기능개발 및 유지보수
-  - GLAM 스토어(IAP) RxSwift로 리팩토링
-  - GLAM 데이팅 유지보수
-  
-- (주)나인폴더스 : 2020.10.14 ~ 2021.02
-  - 이메일 클라이언트앱 개발 및 유지보수
-  - https://www.9folders.com/ko/index.html
   
 ## 학력
  - 경희대학교, 영어통번역학
@@ -90,6 +83,26 @@ Code-based UI 구현에 관심이 많고, 매끄러운 RxSwift 사용을 위해 
 - View의 상속을 통해 코드양을 줄이고 재사용성이 높임. 
 - 프로젝트 완성 후에 Appstore에 배포.
 - For DETAIL INFO: https://github.com/IMSEONGJUN/GitHubFollowers
+
+#
+### [ MyCloset ]<img src = "https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
+
+![이미지](https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/screenshot/mycloset.png?raw=true)
+
+> 개인용 옷장 관리 기능을 갖춘 앱을 구현한 프로젝트
+
+- Firebase를 활용한 백엔드 구현
+- 커스텀 콜렉션뷰 레이아웃 구현(aka. Pinterest Layout)
+- DispatchGroup을 사용한 비동기작업 종료시점 처리 
+- 커스텀 LRU Cache를 구현하여 네트워크 이미지 캐싱처리 ( https://github.com/IMSEONGJUN/SwiftyLRUCache )
+- 사진촬영 기능
+- 'RemoveBG' API(https://www.remove.bg/ko) 를 활용한 사진 백그라운드 제거 기능
+- 내가 가진 옷들을 촬영하여 앱에 카테고리 별로 저장
+- 각 카테고리 아이템을 조합하여 데일리 코디 기능
+- 지난 코디 이미지 조회 기능
+- SnapKit을 활용하여 UI구현
+
+- For DETAIL INFO: https://github.com/IMSEONGJUN/MyCloset
 
 #
 ### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
@@ -149,26 +162,6 @@ Code-based UI 구현에 관심이 많고, 매끄러운 RxSwift 사용을 위해 
 - SnapKit을 활용하여 UI구현
 
 - For DETAIL INFO: https://github.com/IMSEONGJUN/MemoWithPhoto
-
-#
-### [ MyCloset ]<img src = "https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
-
-![이미지](https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/screenshot/mycloset.png?raw=true)
-
-> 개인용 옷장 관리 기능을 갖춘 앱을 구현한 프로젝트
-
-- Firebase를 활용한 백엔드 구현
-- 커스텀 콜렉션뷰 레이아웃 구현(aka. Pinterest Layout)
-- DispatchGroup을 사용한 비동기작업 종료시점 처리 
-- 커스텀 LRU Cache를 구현하여 네트워크 이미지 캐싱처리 ( https://github.com/IMSEONGJUN/SwiftyLRUCache )
-- 사진촬영 기능
-- 'RemoveBG' API(https://www.remove.bg/ko) 를 활용한 사진 백그라운드 제거 기능
-- 내가 가진 옷들을 촬영하여 앱에 카테고리 별로 저장
-- 각 카테고리 아이템을 조합하여 데일리 코디 기능
-- 지난 코디 이미지 조회 기능
-- SnapKit을 활용하여 UI구현
-
-- For DETAIL INFO: https://github.com/IMSEONGJUN/MyCloset
 
 #
 
