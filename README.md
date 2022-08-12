@@ -15,12 +15,11 @@ iOS 개발자 임성준 입니다.
 
 현재는 라이브커머스 플랫폼 'Grip' 에서 iOS개발자로 근무하고 있습니다. 
 
-Code-based UI 작업을 선호하고, 매끄러운 RxSwift 사용을 위해 지속적으로 공부 중입니다. 
-
 ## 경력
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
   - MVVM + RxSwift 
   - SnapKit, Moya
+  - AVFoundation, HLS
   - 앱 Localization 작업
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
