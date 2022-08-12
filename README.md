@@ -21,6 +21,7 @@ iOS 개발자 임성준 입니다.
   - SnapKit, Moya
   - AVFoundation, HLS
   - 앱 Localization 작업
+  - Jira, Confluence, Slack
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
   - GLAM 라이브 스트리밍(라이브 데이팅) 개발
