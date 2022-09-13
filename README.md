@@ -71,7 +71,24 @@ iOS 개발자 임성준 입니다.
 ## 학력
  - 경희대학교, 영어통번역학
  
-## 취업전 개인 프로젝트(2019 ~ 2020)
+## 개인 프로젝트(2019 ~ 2020)
+
+### [ ImageSearcher ]
+- 기간 : 2020.10.08 ~ 2020.10.11
+# Video Link : https://youtu.be/e6EBgg_vcb8
+
+![이미지](https://github.com/IMSEONGJUN/ImageSearch/blob/main/ImageSearcher/ImageSearcher/screenshot/ImageSearcher.png?raw=true)
+
+- MVVM 패턴, RxSwift 사용.
+- RxCocoa Custom ControlEvent, Custom Binder 활용.
+- Kakao Image Search API 사용.
+- 키워드 기준으로 웹상의 이미지 검색
+- 이미지 선택하여 즐겨찾기에 추가 가능
+- 즐겨찾기에 추가한 이미지, 로컬 저장에 JSONEncoder와 UserDefault 사용
+
+- Repository: https://github.com/IMSEONGJUN/ImageSearch
+
+#
 ### [ GitHubFollowers ] <img src = "https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
 [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg">](https://itunes.apple.com/us/app/github-followers/id1497318994?mt=8) [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://itunes.apple.com/kr/app/github-followers/id1497318994?mt=8)
 ![이미지](https://github.com/IMSEONGJUN/GitHubFollowers/blob/master/GitHubFollowers/screenshot/GitHubFollowers.png?raw=true)
@@ -113,22 +130,6 @@ iOS 개발자 임성준 입니다.
 - Used Google Firestore for backend
 - SnapKit을 활용하여 UI구현
 - For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
-
-#
-### [ ImageSearcher ]
-- 기간 : 2020.10.08 ~ 2020.10.11
-# Video Link : https://youtu.be/e6EBgg_vcb8
-
-![이미지](https://github.com/IMSEONGJUN/ImageSearch/blob/main/ImageSearcher/ImageSearcher/screenshot/ImageSearcher.png?raw=true)
-
-- MVVM 패턴, RxSwift 사용.
-- RxCocoa Custom ControlEvent, Custom Binder 활용.
-- Kakao Image Search API 사용.
-- 키워드 기준으로 웹상의 이미지 검색
-- 이미지 선택하여 즐겨찾기에 추가 가능
-- 즐겨찾기에 추가한 이미지, 로컬 저장에 JSONEncoder와 UserDefault 사용
-
-- Repository: https://github.com/IMSEONGJUN/ImageSearch
 
 #
 ### [ TinderCopy ]<img src = "https://github.com/IMSEONGJUN/TinderCopy/blob/master/TinderCopy/Assets.xcassets/AppIcon.appiconset/Icon-120.png?raw=true" width = 50 align = right>
