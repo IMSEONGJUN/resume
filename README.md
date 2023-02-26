@@ -20,7 +20,7 @@ iOS 개발자 임성준 입니다.
   - AVFoundation, HLS
   - 앱 Localization 작업
   - Grip global앱 개발
-  - 인앱 결제 구현(StoreKit 2, StoreKitTest)
+  - 인앱 결제 구현(async/await, StoreKit 2, StoreKitTest)
   - Jira, Confluence, Slack
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
