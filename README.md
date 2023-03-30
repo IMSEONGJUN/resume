@@ -20,6 +20,7 @@ iOS 개발자 임성준 입니다.
   - AVFoundation, HLS
   - 앱 Localization 작업
   - Grip global앱 개발
+  - 방송자 후원하기 기능(부스터)
   - 인앱 결제 구현(async/await, StoreKit 2, StoreKitTest)
   - Jira, Confluence, Slack
 
