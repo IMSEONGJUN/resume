@@ -17,9 +17,13 @@ iOS 개발자 임성준 입니다.
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
   - MVVM + RxSwift 
   - SnapKit, Moya
-  - AVFoundation, HLS
-  - 앱 Localization 작업
-  - Grip global앱 개발
+  - AVFoundation, HLS, RTMP
+  - App Localization using R.Swift
+  - 룰렛 게임 구현 CAAnimation 
+  - GRIP US 버전 개발
+    - 원앱으로 개발(한국 - 미국 국가분기 및 전환 로직 구현)
+    - 웹뷰를 사용한 하이브리드 방식
+    - WKWebView javascript bridge
   - 방송자 후원하기 기능(부스터)
   - 인앱 결제 구현(async/await, StoreKit 2, StoreKitTest)
   - Jira, Confluence, Slack
@@ -83,10 +87,7 @@ iOS 개발자 임성준 입니다.
 - MVVM 패턴, RxSwift 사용.
 - RxCocoa Custom ControlEvent, Custom Binder 활용.
 - Kakao Image Search API 사용.
-- 키워드 기준으로 웹상의 이미지 검색
 - 이미지 선택하여 즐겨찾기에 추가 가능
-- 즐겨찾기에 추가한 이미지, 로컬 저장에 JSONEncoder와 UserDefault 사용
-
 - Repository: https://github.com/IMSEONGJUN/ImageSearch
 
 #
@@ -99,7 +100,7 @@ iOS 개발자 임성준 입니다.
 - 개인적으로 진행한 프로젝트로 깃헙 아이디를 입력하면 해당 아이디의 Follower 또는 Following 데이터를 github API를 이용하여 불러와 보여주는 기능.
 - 특정 깃헙 사용자의 기본정보 확인 및 깃헙페이지 이동, 원하는 유저를 즐겨찾기에 추가하여 별도 검색없이 찾을 수 있는 기능. 
 - ViewController를 커스텀하여 UI구성을 위한 Child ViewController로 활용. 
-- View의 상속을 통해 코드양을 줄이고 재사용성이 높임. 
+- View의 상속을 통해 재사용성이 높임.
 - 프로젝트 완성 후에 Appstore에 배포.
 - For DETAIL INFO: https://github.com/IMSEONGJUN/GitHubFollowers
 
