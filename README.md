@@ -15,18 +15,19 @@ iOS 개발자 임성준 입니다.
 
 ## 경력
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
-  - MVVM + RxSwift 
+  - MVVM-C + RxSwift 
   - SnapKit, Moya
   - AVFoundation, HLS, RTMP
   - App Localization using R.Swift
-  - 룰렛 게임 구현 CAAnimation 
+  - 룰렛 게임 구현 CAAnimation
   - GRIP US 버전 개발
-    - 원앱으로 개발(한국 - 미국 국가분기 및 전환 로직 구현)
-    - 웹뷰를 사용한 하이브리드 방식
-    - WKWebView javascript bridge
+   - 원앱으로 개발(한국 - 미국 국가분기 및 전환 로직 구현)
+   - US버전 런치, 로그인 및 회원가입  
+   - 웹뷰를 사용한 하이브리드 방식
+   - WKWebView javascript bridge
   - 방송자 후원하기 기능(부스터)
   - 인앱 결제 구현(async/await, StoreKit 2, StoreKitTest)
-  - Jira, Confluence, Slack
+  - Jira, Confluence, Slack, Github, Github Action
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
   - GLAM 라이브 스트리밍(라이브 데이팅) 개발
@@ -69,7 +70,7 @@ iOS 개발자 임성준 입니다.
   - https://www.9folders.com/ko/index.html
 
 ## 언어 및 라이브러리
-- 사용언어: Swift, Objective-C, C++
+- 사용언어: Swift, Objective-C
 - 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, SwiftyJSON, RxGesture
 - 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore
   
