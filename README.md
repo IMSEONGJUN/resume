@@ -21,12 +21,13 @@ iOS 개발자 임성준 입니다.
   - App Localization using R.Swift
   - 룰렛 게임 구현 CAAnimation
   - GRIP US 버전 개발
-   - 원앱으로 개발(한국 - 미국 국가분기 및 전환 로직 구현)
-   - US버전 런치, 로그인 및 회원가입  
-   - 웹뷰를 사용한 하이브리드 방식
-   - WKWebView javascript bridge
+    - 원앱으로 개발(한국 - 미국 국가분기 및 전환 로직 구현)
+    - US버전 런치, 로그인 및 회원가입  
+    - 웹뷰를 사용한 하이브리드 방식
+    - WKWebView javascript bridge
   - 방송자 후원하기 기능(부스터)
   - 인앱 결제 구현(async/await, StoreKit 2, StoreKitTest)
+  - 정기적인 신규 기능 추가 및 유지보수
   - Jira, Confluence, Slack, Github, Github Action
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
