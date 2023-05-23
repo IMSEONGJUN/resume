@@ -25,7 +25,7 @@ iOS 개발자 임성준 입니다.
   - 방송자 후원하기 기능(부스터)
   - 인앱 결제 구현(async/await, StoreKit 2, StoreKitTest)
   - 정기적인 신규 기능 추가 및 유지보수
-  - Jira, Confluence, Slack, Github, Github Action
+  - Jira, Confluence, Slack, Figma, Github, Github Action
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
   - GLAM 라이브 스트리밍(라이브 데이팅) 개발
