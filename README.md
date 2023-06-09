@@ -126,7 +126,7 @@ iOS 개발자 임성준 입니다.
 ## Video Link: https://youtu.be/p3zgqgrtMbs
 ![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat4.png?raw=true)
 - RxSwift와 MVVM 패턴을 사용하여 만든 실시간 채팅앱
-- Used Google Firestore for backend
+- Google Firestore for backend
 - SnapKit을 활용하여 UI구현
 - For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
 
@@ -138,7 +138,7 @@ iOS 개발자 임성준 입니다.
 - MVVM 패턴을 적용하여 실제 Tinder앱의 기능을 파악하고 애니메이션 및 기본적인 UI를 유사하게 구현하는 연습
 - ViewModel 내부 프로퍼티의 Observable 패턴적용
 - Google Firebase, Firestore를 활용한 사용자 정보관리
-- UIPageViewController를 활용한 이미지 슬라이딩
+- UIPageViewController를 활용한 이미지 스크롤
 - 비동기 네트워킹 작업에 DispatchGroup을 활용
 - 다양한 애니메이션 구현
 
@@ -150,11 +150,6 @@ iOS 개발자 임성준 입니다.
 [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg">](https://apps.apple.com/us/app/memowithphoto/id1506735819?mt=8) [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/memowithphoto/id1506735819?mt=8)
 
 ![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/01.png)
-
-> 메신져 서비스 기업 LINE에서 진행하는 앱개발 첼린지에 지원하기 위해 개발했던 이미지 첨부가 가능한 메모앱.  
-> 앱개발 첼린지에서 합격한 개인 프로젝트  
-> LINE관련 이미지 변경 후 AppStore에 배포
-
 - Mock CoreData를 활용한 유닛 테스트 구현
 - 객체의 상속을 적극 활용하여 중복코드를 줄임.
 - 메모 추가, 수정, 삭제, 검색 기능 구현
