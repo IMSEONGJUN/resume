@@ -17,7 +17,7 @@ iOS 개발자 임성준 입니다.
   - MVVM-C + RxSwift 
   - SnapKit, Moya
   - AVFoundation, HLS, RTMP
-  - App Localization using R.Swift
+  - App Localization
   - 룰렛 게임 구현 CAAnimation
   - GRIP US 버전 개발
   - 방송자 후원하기 기능(부스터)
