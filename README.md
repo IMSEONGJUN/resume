@@ -68,7 +68,7 @@ iOS 개발자 임성준 입니다.
 ## 언어 및 라이브러리
 - 사용언어: Swift, Objective-C
 - 주요 사용 라이브러리: RxSwift, RxCocoa, RxDataSources, SnapKit, Moya, Alamofire, SDWebImage, Kingfisher, SwiftyJSON, RxGesture
-- 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore
+- 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore, FCM
   
 ## 학력
  - 경희대학교, 영어통번역학
