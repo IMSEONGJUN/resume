@@ -10,7 +10,7 @@
 iOS 개발자 임성준 입니다.
 
 동료가 보기에 잘 읽히는 코드를 작성하려고 노력하며 RxSwift 사용에 적극적입니다.
-언제나 더 간결한 구현 방식이 없는지 작업이 완료되어도 일정이 허락하는 동안 끝임없이 고민하고 수정을 거듭해가며 개발하는 편입니다. 
+언제나 더 간결한 구현 방식이 없는지 작업이 완료되어도 일정이 허락하는 동안 끝임없이 고민하고 수정을 거듭해가며 개발합니다. 
 현재 라이브커머스 플랫폼 Grip에서 iOS개발자로 근무하고 있으며, MVVM-C 패턴으로 Swift와 RxSwift를 사용하여 개발합니다.  
 Code-based UI 구현을 선호합니다. 
 
@@ -20,12 +20,11 @@ Code-based UI 구현을 선호합니다.
   - SnapKit, Moya
   - AVFoundation, HLS, RTMP
   - App Localization
-  - GRIP US 버전 개발 - WKWebView bridge
+  - GRIP US 버전 개발 - WKWebView javascript bridge
   - 방송자 후원하기 기능(부스터)
   - 인앱 결제 구현(Swift Concurrency, StoreKit 2, StoreKitTest)
   - 라이브 방송 송출 및 시청 중 발생하는 실시간 이벤트 처리(Firestore)
   - 라이브 방송 송출(RTMP) 전 네트워크 컨디션 체크(ICMP) 및 테스트 송출기능
-  - 라이브 시청시 재생 속도 조절(배속)
   - 라이브 방송 중 참여할 수 있는 룰렛 게임 개발(CABasicAnimation)
   - 정기적인 신규 기능 추가 및 유지보수
   - Jira, Confluence, Slack, Figma, Github, Github Action
