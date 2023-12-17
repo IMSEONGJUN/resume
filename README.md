@@ -107,26 +107,6 @@ Code-based UI 구현을 선호합니다.
 - For DETAIL INFO: https://github.com/IMSEONGJUN/GitHubFollowers
 
 #
-### [ MyCloset ]<img src = "https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" width = 50 align = right>
-
-![이미지](https://github.com/IMSEONGJUN/MyCloset/blob/master/MyCloset/screenshot/mycloset.png?raw=true)
-
-> 개인용 옷장 관리 기능을 갖춘 앱을 구현한 프로젝트
-
-- Firebase를 활용한 백엔드 구현
-- 커스텀 콜렉션뷰 레이아웃 구현(aka. Pinterest Layout)
-- DispatchGroup을 사용한 비동기작업 종료시점 처리 
-- 커스텀 LRU Cache를 구현하여 네트워크 이미지 캐싱처리 ( https://github.com/IMSEONGJUN/SwiftyLRUCache )
-- 사진촬영 기능
-- 'RemoveBG' API(https://www.remove.bg/ko) 를 활용한 사진 백그라운드 제거 기능
-- 내가 가진 옷들을 촬영하여 앱에 카테고리 별로 저장
-- 각 카테고리 아이템을 조합하여 데일리 코디 기능
-- 지난 코디 이미지 조회 기능
-- SnapKit을 활용하여 UI구현
-
-- For DETAIL INFO: https://github.com/IMSEONGJUN/MyCloset
-
-#
 ### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
 ## Video Link: https://youtu.be/p3zgqgrtMbs
 ![이미지](https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/screenshot/WaffleChat4.png?raw=true)
@@ -135,40 +115,6 @@ Code-based UI 구현을 선호합니다.
 - SnapKit을 활용하여 UI구현
 - For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
 
-#
-### [ TinderCopy ]<img src = "https://github.com/IMSEONGJUN/TinderCopy/blob/master/TinderCopy/Assets.xcassets/AppIcon.appiconset/Icon-120.png?raw=true" width = 50 align = right>
-![이미지](https://github.com/IMSEONGJUN/TinderCopy/blob/master/images/New%20Project%20(3).png)
-> Tinder 앱을 카피한 연습용 개인 프로젝트
-
-- MVVM 패턴을 적용하여 실제 Tinder앱의 기능을 파악하고 애니메이션 및 기본적인 UI를 유사하게 구현하는 연습
-- ViewModel 내부 프로퍼티의 Observable 패턴적용
-- Google Firebase, Firestore를 활용한 사용자 정보관리
-- UIPageViewController를 활용한 이미지 스크롤
-- 비동기 네트워킹 작업에 DispatchGroup을 활용
-- 다양한 애니메이션 구현
-
-
-- For DETAIL INFO: https://github.com/IMSEONGJUN/TinderCopy
-
-#
-### [ MemoWithPhoto ] <img src = "https://github.com/IMSEONGJUN/iOSMemoApp/blob/master/images/Icon-60.png?raw=true" width = 50 align = right>
-[<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg">](https://apps.apple.com/us/app/memowithphoto/id1506735819?mt=8) [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/memowithphoto/id1506735819?mt=8)
-
-![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/01.png)
-- Mock CoreData를 활용한 유닛 테스트 구현
-- 객체의 상속을 적극 활용하여 중복코드를 줄임.
-- 메모 추가, 수정, 삭제, 검색 기능 구현
-- 메모에 이미지를 추가로 첨부가능
-- 이미지 첨부방식은 사진촬영, 사진첩, 이미지 URL
-- SnapKit을 활용하여 UI구현
-
-- For DETAIL INFO: https://github.com/IMSEONGJUN/MemoWithPhoto
-
-#
-
-### [ 다방 클론앱 ]
-
-> 패스트 캠퍼스 iOS School에서 진행했던 Backend School과의 협업 프로젝트 입니다.  
 
 ![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/dabangImages.png?raw=true)
 
