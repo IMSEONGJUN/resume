@@ -115,9 +115,3 @@ Code-based UI 구현을 선호합니다.
 - SnapKit을 활용하여 UI구현
 - For DETAIL INFO: https://github.com/IMSEONGJUN/WaffleChat
 
-
-![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/dabangImages.png?raw=true)
-
-- For DETAIL INFO: https://github.com/IMSEONGJUN/iOS-DabangClone-200330/tree/develop
-#
-
