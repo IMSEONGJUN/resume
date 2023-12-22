@@ -17,14 +17,14 @@ Code-based UI 구현을 선호합니다.
 - 업무툴: Jira, Confluence, Slack, Figma
 - CI/CD: Github Action
 - 모듈화: Tuist
-- 분석툴 및 데이터베이스: Amplitude, Google Firebase Analytics, Google Firebase Firestore, FCM
+- 기타: Amplitude, Google Firebase Analytics, Google Firebase Firestore, FCM
 
 ## 경력
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
   - MVVM-C + RxSwift 
   - SnapKit, Moya
   - AVFoundation, HLS, RTMP
-  - App Localization
+  - App Localization(글로벌)
   - GRIP US 버전 개발 - WKWebView javascript bridge
   - 방송자 후원하기 기능(부스터)
   - 인앱 결제 구현(Swift Concurrency, StoreKit 2, StoreKitTest)
