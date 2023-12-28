@@ -26,7 +26,7 @@ Code-based UI 구현을 선호합니다.
   - AVFoundation, HLS, RTMP
   - App Localization(글로벌)
   - GRIP US 버전 개발 - WKWebView javascript bridge
-  - 방송자 후원하기 기능(부스터)
+  - 방송자 후원하기 기능(인앱 결제)
   - 인앱 결제 구현(Swift Concurrency, StoreKit 2, StoreKitTest)
   - 로그인, 회원가입, 인증 기능 개발
   - 라이브 방송 송출 및 시청 중 발생하는 실시간 이벤트 처리(Firestore)
