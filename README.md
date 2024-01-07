@@ -31,7 +31,6 @@ Code-based UI 구현을 선호합니다.
   - 로그인, 회원가입, 인증 기능 개발
   - 라이브 방송 송출 및 시청 중 발생하는 실시간 이벤트 처리(Firestore)
   - 라이브 방송 송출(RTMP) 전 네트워크 컨디션 체크(ICMP) 및 테스트 송출기능
-  - 라이브 방송 중 참여할 수 있는 룰렛 게임 개발(CABasicAnimation)
   - 정기적인 신규 기능 추가 및 유지보수
   - Jira, Confluence, Slack, Figma, Github, Github Action, Tuist
 
