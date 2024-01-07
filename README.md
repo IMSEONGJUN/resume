@@ -104,9 +104,23 @@ Code-based UI 구현을 선호합니다.
 - 개인적으로 진행한 프로젝트로 깃헙 아이디를 입력하면 해당 아이디의 Follower 또는 Following 데이터를 github API를 이용하여 불러와 보여주는 기능.
 - 특정 깃헙 사용자의 기본정보 확인 및 깃헙페이지 이동, 원하는 유저를 즐겨찾기에 추가하여 별도 검색없이 찾을 수 있는 기능. 
 - ViewController를 커스텀하여 UI구성을 위한 Child ViewController로 활용. 
-- View의 상속을 통해 재사용성이 높임.
+- View의 상속을 통해 재사용성을 높임.
 - 프로젝트 완성 후에 Appstore에 배포.
 - For DETAIL INFO: https://github.com/IMSEONGJUN/GitHubFollowers
+
+#
+### [ MemoWithPhoto ] <img src = "https://github.com/IMSEONGJUN/iOSMemoApp/blob/master/images/Icon-60.png?raw=true" width = 50 align = right>
+[<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg">](https://apps.apple.com/us/app/memowithphoto/id1506735819?mt=8) [<img src = "https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg">](https://apps.apple.com/kr/app/memowithphoto/id1506735819?mt=8)
+
+![이미지](https://github.com/IMSEONGJUN/resume/blob/master/images/01.png)
+- Mock CoreData를 활용한 유닛 테스트 구현
+- 객체의 상속을 적극 활용하여 중복코드를 줄임.
+- 메모 추가, 수정, 삭제, 검색 기능 구현
+- 메모에 이미지를 추가로 첨부가능
+- 이미지 첨부방식은 사진촬영, 사진첩, 이미지 URL
+- SnapKit을 활용하여 UI구현
+
+- For DETAIL INFO: https://github.com/IMSEONGJUN/MemoWithPhoto
 
 #
 ### [ WaffleChat ] <img src = "https://github.com/IMSEONGJUN/WaffleChat/blob/master/WaffleChat/WaffleChat/Assets.xcassets/logo.imageset/Icon-512.png?raw=true" width = 50 align = right>
