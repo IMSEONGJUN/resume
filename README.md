@@ -25,7 +25,7 @@ Code-based UI 구현을 선호합니다.
   - SnapKit, Moya
   - AVFoundation, HLS, RTMP
   - App Localization(글로벌)
-  - GRIP US 버전 개발 - WKWebView javascript bridge
+  - GRIP US 버전 개발
   - 방송자 후원하기 기능(인앱 결제)
   - 인앱 결제 구현(Swift Concurrency, StoreKit 2, StoreKitTest)
   - 로그인, 회원가입, 인증 기능 개발
