@@ -17,7 +17,6 @@ Code-based UI 구현을 선호합니다.
 - 업무툴: Jira, Confluence, Slack, Figma
 - CI/CD: Github Action
 - 모듈화: Tuist
-- 기타: Google Firebase Analytics, Google Firebase Firestore, FCM
 
 ## 경력
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
