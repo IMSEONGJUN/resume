@@ -20,7 +20,7 @@ Code-based UI 구현을 선호합니다.
 
 ## 경력
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
-  - 그립 SDK 개발 및 배포
+  - 그립 SDK 개발 및 배포(cocoapods, SPM)
   - App Localization(글로벌)
   - GRIP US 버전 개발
   - 방송자 후원하기 기능(인앱 결제)
