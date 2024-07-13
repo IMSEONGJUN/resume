@@ -21,53 +21,53 @@ Code-based UI 구현을 선호합니다.
 ## 경력
 - (주)그립컴퍼니 : 2022.03 ~ 근무중
   
- - 방송자 후원하기 기능(기여도 80%)
-  - 인앱 결제 구현(Swift Concurrency, StoreKit2, StoreKitTest)
-  - 앱 내 재화 구매(인앱결제)부터 방송자에게 후원하기까지 원스탭으로 처리
+  - 방송자 후원하기 기능(기여도 80%)
+    - 인앱 결제 구현(Swift Concurrency, StoreKit2, StoreKitTest)
+    - 앱 내 재화 구매(인앱결제)부터 방송자에게 후원하기까지 원스탭으로 처리
 
- - 로그인, 회원가입, 인증 기능 개발(기여도 100%)
-  - 인증서버, API 서버, 앱과의 3자간 통신
-  - RxSwift를 사용한 에러 핸들링
+  - 로그인, 회원가입, 인증 기능 개발(기여도 100%)
+    - 인증서버, API 서버, 앱과의 3자간 통신
+    - RxSwift를 사용한 에러 핸들링
 
- - 추천방송 리스트 구현(기여도 100%)
-  - DiffableDataSource + CompositionalLayout CollectionView 구성
-  - PanGesture로 ViewController present/dismiss 트리거할 수 있도록 처리(좌로 panGesture하는 경우 우측에서 추천방송 리스트 나타나도록)
-  - Custom ViewController Transition, PercentDrivenTransition 구현
-  - 중복 제스쳐 정리
+  - 추천방송 리스트 구현(기여도 100%)
+    - DiffableDataSource + CompositionalLayout CollectionView 구성
+    - PanGesture로 ViewController present/dismiss 트리거할 수 있도록 처리(좌로 panGesture하는 경우 우측에서 추천방송 리스트 나타나도록)
+    - Custom ViewController Transition, PercentDrivenTransition 구현
+    - 중복 제스쳐 정리
 
- - 셀러 추천 UI 개발(기여도 100%)
-  - 수평 스크롤 콜렉션뷰 사용하여 중앙에 포커싱된 셀만 동적으로 크기가 커지도록 처리
-  - 자동 스크롤 및 셀 노출시 영상 자동재생
-  - UICollectionView + compositionalLayout 사용
+  - 셀러 추천 UI 개발(기여도 100%)
+    - 수평 스크롤 콜렉션뷰 사용하여 중앙에 포커싱된 셀만 동적으로 크기가 커지도록 처리
+    - 자동 스크롤 및 셀 노출시 영상 자동재생
+    - UICollectionView + compositionalLayout 사용
 
- - App Localization(글로벌)(기여도 50%)
-  - 영어 리소스 대응
+  - App Localization(글로벌)(기여도 50%)
+    - 영어 리소스 대응
 
- - GRIP US 버전 개발(기여도 70%)
-  - 원앱으로 국가 분기 및 버전 전환 가능하도록(protocol 추상화 및 다형성)
-  - WKWebView, 웹 <> 앱 자바스크립트 브릿지 통신
-  - 구글 로그인 연동
+  - GRIP US 버전 개발(기여도 70%)
+    - 원앱으로 국가 분기 및 버전 전환 가능하도록(protocol 추상화 및 다형성)
+    - WKWebView, 웹 <> 앱 자바스크립트 브릿지 통신
+    - 구글 로그인 연동
 
- - 그립 SDK 개발(기여도 30%)
-  - SDK initialize(launch 및 초기 설정)
-  - cocoapods 배포(podSpec 및 배포 스크립트 작성)
+  - 그립 SDK 개발(기여도 30%)
+    - SDK initialize(launch 및 초기 설정)
+    - cocoapods 배포(podSpec 및 배포 스크립트 작성)
 
- - 라이브 방송 송출(RTMP) 전 네트워크 컨디션 체크 및 테스트 송출기능(기여도 100%)
-  - 방송 전 Ping(ICMP) 테스트를 통해 네트워크 상태를 체크하고 상태가 좋지 않은 경우 유저의 선택에 따라 방송 송출 테스트를 할 수 있도록 구현(송출 테스트 전용 URL을 서버로부터 미리 받아둠)
-  - Ping, 송출 테스트 결과에 대한 구분 및 처리(방송 송출 가능 여부 표시)
-  - 방송자가 인지하고 대응할 수 있도록 네트워크 불안 케이스 세분화
+  - 라이브 방송 송출(RTMP) 전 네트워크 컨디션 체크 및 테스트 송출기능(기여도 100%)
+    - 방송 전 Ping(ICMP) 테스트를 통해 네트워크 상태를 체크하고 상태가 좋지 않은 경우 유저의 선택에 따라 방송 송출 테스트를 할 수 있도록 구현(송출 테스트 전용 URL을 서버로부터 미리 받아둠)
+    - Ping, 송출 테스트 결과에 대한 구분 및 처리(방송 송출 가능 여부 표시)
+    - 방송자가 인지하고 대응할 수 있도록 네트워크 불안 케이스 세분화
 
- - 방송 송출중 디바이스 발열 경고 알림 작업(기여도 100%)
-  - ProcessInfo.ThermalState 및 Notification 사용
+  - 방송 송출중 디바이스 발열 경고 알림 작업(기여도 100%)
+    - ProcessInfo.ThermalState 및 Notification 사용
 
- - 룰렛 게임 구현(기여도 60%)
-  - UI, 룰렛 회전/정지 및 회전에 따른 상단핀 좌우 바운스 애니메이션 구현
-  - CAAnimation 활용
-  - 당첨 여부에 따른 결과 처리
+  - 룰렛 게임 구현(기여도 60%)
+    - UI, 룰렛 회전/정지 및 회전에 따른 상단핀 좌우 바운스 애니메이션 구현
+    - CAAnimation 활용
+    - 당첨 여부에 따른 결과 처리
             
- - 신고 기능: UI 리뉴얼 작업 및 기존 로직 RxSwift + MVVM 구조로 리팩토링(기여도 100%)
+  - 신고 기능: UI 리뉴얼 작업 및 기존 로직 RxSwift + MVVM 구조로 리팩토링(기여도 100%)
 
- - 정기적인 신규 기능 추가 및 유지보수
+  - 정기적인 신규 기능 추가 및 유지보수
 
 - (주)큐피스트 : 2021.03 ~ 2022.02
   - GLAM 라이브 스트리밍(라이브 데이팅) 개발
