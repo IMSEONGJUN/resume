@@ -12,7 +12,7 @@ iOS 개발자 임성준 입니다.
 동료가 보기에 잘 읽히는 코드를 작성하려고 노력합니다.
 더 간결한 구현을 위해 작업이 완료되어도 일정이 허락하는 동안 고민하고 개선해가며 개발합니다. 
 현재 라이브커머스 플랫폼 Grip에서 iOS개발자로 근무하고 있으며, MVVM-C 패턴으로 Swift와 RxSwift를 사용하여 개발합니다.  
-Code-based UI 구현을 선호합니다. 
+Code-based UI 구현을 선호합니다. 최근에는 SwiftUI를 도입하여 프로필탭 전체를 개편하는 작업을 진행했습니다.
 
 - 업무툴: Jira, Confluence, Slack, Figma
 - CI/CD: Github Action
